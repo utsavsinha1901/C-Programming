@@ -5,7 +5,7 @@ int fact(int f)
      for(int i=1;i<=f;i++){
          p=p*i;
      }return p;
-
+// hi
 }
 int main()
 {
